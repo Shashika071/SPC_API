@@ -1,0 +1,72 @@
+[
+  {
+    "DrugID": 1,
+    "Name": "Paracetamol",
+    "Type": "Painkiller",
+    "Price": 10.50,
+    "Stock": 500
+  },
+  {
+    "DrugID": 2,
+    "Name": "Ibuprofen",
+    "Type": "Anti-inflammatory",
+    "Price": 15.75,
+    "Stock": 350
+  },
+  {
+    "DrugID": 3,
+    "Name": "Amoxicillin",
+    "Type": "Antibiotic",
+    "Price": 25.99,
+    "Stock": 200
+  },
+  {
+    "DrugID": 4,
+    "Name": "Cetirizine",
+    "Type": "Antihistamine",
+    "Price": 8.20,
+    "Stock": 300
+  },
+  {
+    "DrugID": 5,
+    "Name": "Metformin",
+    "Type": "Diabetes Medication",
+    "Price": 18.40,
+    "Stock": 150
+  },
+  {
+    "DrugID": 6,
+    "Name": "Amlodipine",
+    "Type": "Blood Pressure Medication",
+    "Price": 12.30,
+    "Stock": 180
+  },
+  {
+    "DrugID": 7,
+    "Name": "Omeprazole",
+    "Type": "Proton Pump Inhibitor",
+    "Price": 22.00,
+    "Stock": 120
+  },
+  {
+    "DrugID": 8,
+    "Name": "Simvastatin",
+    "Type": "Cholesterol Medication",
+    "Price": 30.10,
+    "Stock": 250
+  },
+  {
+    "DrugID": 9,
+    "Name": "Loratadine",
+    "Type": "Antihistamine",
+    "Price": 5.80,
+    "Stock": 400
+  },
+  {
+    "DrugID": 10,
+    "Name": "Diazepam",
+    "Type": "Anxiolytic",
+    "Price": 14.50,
+    "Stock": 200
+  }
+]

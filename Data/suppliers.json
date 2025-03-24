@@ -1,0 +1,26 @@
+[
+  {
+    "SupplierID": 1,
+    "Name": "PharmaTech Ltd.",
+    "Address": "123 Pharma Street, City, Country",
+    "ContactInfo": "123-456-7890"
+  },
+  {
+    "SupplierID": 2,
+    "Name": "MediCorp Ltd.",
+    "Address": "456 Health Road, City, Country",
+    "ContactInfo": "987-654-3210"
+  },
+  {
+    "SupplierID": 3,
+    "Name": "HealthSupply Ltd.",
+    "Address": "789 Wellness St, City, Country",
+    "ContactInfo": "123-789-6540"
+  },
+  {
+    "SupplierID": 4,
+    "Name": "HealthSupply Ltd.",
+    "Address": "789 Wellness St, City, Country",
+    "ContactInfo": "123-789-6540"
+  }
+]

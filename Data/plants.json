@@ -1,0 +1,15 @@
+[
+    {
+      "PlantID": 1,
+      "Name": "Pharma Manufacturing Plant A",
+      "Location": "Warehouse 1, City, Country",
+      "ContactInfo": "123-555-7890"
+    },
+    {
+      "PlantID": 2,
+      "Name": "Medi Manufacturing Plant B",
+      "Location": "Warehouse 2, City, Country",
+      "ContactInfo": "987-555-1234"
+    }
+  ]
+  

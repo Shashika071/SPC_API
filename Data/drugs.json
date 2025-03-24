@@ -1,0 +1,16 @@
+[
+  {
+    "DrugID": 7,
+    "Name": "Omeprazole",
+    "Type": "Proton Pump Inhibitor",
+    "Price": 22.00,
+    "Stock": 120
+  },
+  {
+    "DrugID": 8,
+    "Name": "Simvastatin",
+    "Type": "Cholesterol Medication",
+    "Price": 30.10,
+    "Stock": 250
+  }
+]
